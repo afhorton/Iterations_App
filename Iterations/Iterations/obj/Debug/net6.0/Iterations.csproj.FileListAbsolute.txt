@@ -1,0 +1,15 @@
+C:\Users\922747\source\repos\Iterations\Iterations\bin\Debug\net6.0\Iterations.exe
+C:\Users\922747\source\repos\Iterations\Iterations\bin\Debug\net6.0\Iterations.deps.json
+C:\Users\922747\source\repos\Iterations\Iterations\bin\Debug\net6.0\Iterations.runtimeconfig.json
+C:\Users\922747\source\repos\Iterations\Iterations\bin\Debug\net6.0\Iterations.dll
+C:\Users\922747\source\repos\Iterations\Iterations\bin\Debug\net6.0\Iterations.pdb
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\Iterations.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\Iterations.AssemblyInfoInputs.cache
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\Iterations.AssemblyInfo.cs
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\Iterations.dll
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\refint\Iterations.dll
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\Iterations.pdb
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\Iterations.genruntimeconfig.cache
+C:\Users\922747\source\repos\Iterations\Iterations\obj\Debug\net6.0\ref\Iterations.dll
